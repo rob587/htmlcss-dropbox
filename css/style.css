@@ -59,10 +59,13 @@ a{
 
 /* fine header */
 
+
+.bg-aqua{
+background-color: #b5d0e7;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #b5d0e7;
 }
 
 .tt-block{
@@ -70,20 +73,49 @@ a{
 }
 
 .tt{
-    font-size: 70px;
+    font-size: 75px;
    
 }
 
 .jm-img{
-    width: 65%;
+    width: 100%;
 }
 
 .description{
     display: flex;
     margin-top: 50px;
- 
+    padding-bottom: 50px;
+    
+}
+
+.btn-trial{
+    padding:10px 20px 10px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: #0161ff;
+    border: transparent;
+    margin-top: 40px;
+    margin-bottom: 40px
+} 
+
+i{
+    margin-top: 40px;
+    font-size: 50px
+}
+
+
+.end-description{
+    font-size:20px ;
 }
 
 .bl-description{
     font-size: 20px;
 }
+
+.img-block{
+    padding-left: 50px;
+}
+
+
+
+
