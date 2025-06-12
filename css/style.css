@@ -66,6 +66,7 @@ background-color: #b5d0e7;
 .container{
     max-width: 1200px;
     margin: 0 auto;
+    margin-top: 50px;
 }
 
 .tt-block{
@@ -79,6 +80,7 @@ background-color: #b5d0e7;
 
 .jm-img{
     width: 100%;
+    
 }
 
 .description{
@@ -90,7 +92,7 @@ background-color: #b5d0e7;
 
 .btn-trial{
     padding:10px 20px 10px 20px;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     background-color: #0161ff;
     border: transparent;
@@ -116,6 +118,25 @@ i{
     padding-left: 50px;
 }
 
+/* fine primo blocco */
+
+
+/* inizio secondo blocco */
+
+.container-2{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.chose-plan{
+    margin-top: 50px;
+}
+
+span{
+    padding-right: 30px;
+    
+}
 
 
 
