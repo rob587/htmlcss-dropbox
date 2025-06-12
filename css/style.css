@@ -26,6 +26,10 @@ a{
     color: black;
 }
 
+.position-fixed{
+    position: fixed;
+}
+
 .nav-bar{
     padding-top: 2px;
 }
@@ -35,6 +39,7 @@ a{
     display: flex;
     justify-content: space-between;
    padding:20px;
+   width: 100%;
 }
 
 .left, .right{
@@ -53,3 +58,32 @@ a{
 }
 
 /* fine header */
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #b5d0e7;
+}
+
+.tt-block{
+    margin-top: 20px;
+}
+
+.tt{
+    font-size: 70px;
+   
+}
+
+.jm-img{
+    width: 65%;
+}
+
+.description{
+    display: flex;
+    margin-top: 50px;
+ 
+}
+
+.bl-description{
+    font-size: 20px;
+}
