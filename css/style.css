@@ -298,7 +298,7 @@ width: 300px;
 .row-wrap{
   display: flex;
   flex-wrap: wrap; 
-  gap: 30px;
+  gap: 60px;
   justify-content: center;
 
 }
@@ -306,7 +306,7 @@ width: 300px;
 
 .col-15{
     width: 500px;
-    width: calc((100% - 60px) / 3);
+    width: calc((100% - 120px) / 3);
 
 }
 
@@ -324,3 +324,23 @@ width: 300px;
    
 }
 
+/* terminata sezione struttura a 6 */
+
+
+.last-bx{
+    margin-top: 50px;
+}
+
+.self{
+    text-decoration: underline;
+    margin-top:50px ;
+    color: #0161ff;
+}
+
+.self:hover{
+    color: #57d966;
+    cursor: pointer;
+}
+
+
+/* main terminato */
