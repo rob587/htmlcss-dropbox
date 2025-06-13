@@ -11,7 +11,7 @@ header{
     height: 70px;
 }
 
-ul{
+.url{
     list-style: none;
     display: flex;
     justify-content: center;
@@ -63,11 +63,12 @@ a{
 
 .bg-aqua{
 background-color: #b5d0e7;
+
 }
 .container{
     max-width: 1200px;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .tt-block{
@@ -125,7 +126,7 @@ i{
 /* inizio secondo blocco */
 
 .container-2{
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     margin-top: 80px;
    
