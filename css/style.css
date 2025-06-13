@@ -361,3 +361,14 @@ width: 300px;
 .first{
     margin-top:100px ;
 }
+
+.line{
+    width: 10%;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.last{
+    margin-top: 40px;
+    margin-left: 40px;
+}
