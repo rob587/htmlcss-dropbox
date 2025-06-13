@@ -372,3 +372,23 @@ width: 300px;
     margin-top: 40px;
     margin-left: 40px;
 }
+
+.top-btn:hover{
+    color:#b5d0e7;
+    cursor: pointer;
+}
+
+.btn-trial:hover{
+    color:#b5d0e7;
+    cursor: pointer;
+}
+
+.buy-btn:hover{
+        color:#b5d0e7;
+    cursor: pointer;
+}
+
+.white-btn:hover{
+    background-color:#b5d0e7;
+    cursor: pointer;
+}
