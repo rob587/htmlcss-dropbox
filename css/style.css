@@ -344,3 +344,20 @@ width: 300px;
 
 
 /* main terminato */
+
+
+ .bg-black{
+    background-color: black;
+    height: 500px;
+} 
+
+.sub-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    color: white;
+}
+
+.first{
+    margin-top:100px ;
+}
