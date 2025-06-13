@@ -162,7 +162,7 @@ span{
 }
 
 .h-300{
-    height: 300px;
+    height: 230px;
 }
 
 .mt-20{
@@ -196,6 +196,7 @@ span{
 .txt-cent{
   font-size: 18px;
   font-weight: bold;
+  padding:5px ;
 }
 
 .info{
@@ -250,4 +251,9 @@ h3{
 
 .alt{
     margin-left: 35px;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
 }
