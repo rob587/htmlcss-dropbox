@@ -40,6 +40,7 @@ a{
     justify-content: space-between;
    padding:20px;
    width: 100%;
+   background-color: white;
 }
 
 .left, .right{
@@ -124,19 +125,61 @@ i{
 /* inizio secondo blocco */
 
 .container-2{
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
     margin-top: 80px;
+   
 }
 
 .chose-plan{
     margin-top: 50px;
 }
 
-span{
-    padding-right: 30px;
-    
+.row{
+    display: flex;
+    gap: 30px;
 }
 
+.mt-40{
+    margin-top: 40px;
+}
+
+span{
+    padding-right: 30px;
+}
+
+.col{
+    width: 400px;
+}
+
+.h-500{
+    height: 500px;
+}
+
+.b-black{
+    border: 1px solid black;
+}
+
+.just-cont-cent{
+    justify-content: center;
+}
+
+.b-tt{
+    display: flex;
+    justify-content: center;
+}   
+
+.icon{
+    font-size: 20px;    
+}
+
+.line hr{
+    border-bottom: 1px solid black;
+}
+
+.txt-cent{
+  font-size: 18px;
+  font-weight: bold;
+}
 
 
