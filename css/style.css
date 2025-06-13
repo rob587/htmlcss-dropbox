@@ -157,8 +157,12 @@ span{
     width: 400px;
 }
 
-.h-500{
+.h-1000{
     height: 1000px;
+}
+
+.h-500{
+    height: 400px;
 }
 
 .h-300{
@@ -257,3 +261,34 @@ h3{
     display: flex;
     justify-content: space-between;
 }
+
+
+/* fine colonne */
+
+/* inizio seconda sezione colonne */
+
+
+.col-60{
+width: 700px;
+background-image: url(/img/partner.png);
+background-size:cover ;
+}
+
+.col-40{
+width: 300px;
+}
+
+.bx-tt{
+    margin-top: 75px;
+}
+
+.white-btn{
+    margin-top: 30px;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+    background-color: white;
+
+}
+
+
+
