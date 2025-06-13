@@ -11,6 +11,10 @@ header{
     height: 70px;
 }
 
+ul{
+    list-style: none;
+}
+
 .url{
     list-style: none;
     display: flex;
@@ -102,7 +106,7 @@ background-color: #b5d0e7;
     margin-bottom: 40px
 } 
 
-i{
+.mar-top-40{
     margin-top: 40px;
     font-size: 50px
 }
@@ -168,10 +172,14 @@ span{
 .b-tt{
     display: flex;
     justify-content: center;
+    border-bottom:1px solid black ;
+   
+    
 }   
 
 .icon{
-    font-size: 20px;    
+    font-size: 20px;  
+    margin-right: 5px;  
 }
 
 
@@ -197,6 +205,23 @@ span{
     color:grey ;
 }
 
+.funct{
+    margin-top: 30px;
+}
+
+.my-40, .p-10{
+    margin-top: 40px;
+    padding: 15px;
+}
 
 
+.btn-cnt{
+   margin: 35px;
+}
 
+.buy-btn{
+    padding: 15px 40px 15px 40px;
+    color: white;
+    background-color: #0161ff   ;
+    border: transparent;
+}
