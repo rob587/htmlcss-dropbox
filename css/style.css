@@ -225,3 +225,12 @@ span{
     background-color: #0161ff   ;
     border: transparent;
 }
+
+.ind{
+    color: #0161ff;
+    text-decoration: underline;
+}
+
+.alt{
+    margin-left: 35px;
+}
