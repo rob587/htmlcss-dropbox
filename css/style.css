@@ -153,7 +153,7 @@ span{
 }
 
 .h-500{
-    height: 500px;
+    height: 800px;
 }
 
 .b-black{
@@ -173,13 +173,29 @@ span{
     font-size: 20px;    
 }
 
-.line hr{
-    border-bottom: 1px solid black;
-}
+
 
 .txt-cent{
   font-size: 18px;
   font-weight: bold;
 }
+
+.info{
+    margin: 15px;
+}
+
+.info-tt, .value, .grey{
+    padding-top: 20px;
+}
+
+.value{
+    font-weight: 700;
+}
+
+.grey{
+    color:grey ;
+}
+
+
 
 
